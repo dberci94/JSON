@@ -2,6 +2,7 @@
   {
     "sender": "Northern Arts Festival",
     "imageURL": "https://scontent-vie1-1.xx.fbcdn.net/v/t1.0-9/12919856_10208256055373327_6948900063362635391_n.jpg?oh=5d7b82c65c360f05fbeb4a9b2ebaf1dc&oe=57D90390",
+    "date": 1433109600,
     "messages": [
       {
         "sender": "Northern Arts Festival",
@@ -40,6 +41,7 @@
   {
     "sender": "North Bar",
     "imageURL": "https://s3.sonicbids.com/image/bandopportunity/25824/56f978e4f2fa56793aa75cef_jpg_640x640.jpg",
+    "date": 1433109600,
     "messages": [
       {
         "sender": "North Bar",
@@ -78,6 +80,7 @@
   {
     "sender": "Toshi's Living Room",
     "imageURL": "https://s3.sonicbids.com/image/bandopportunity/25666/56d4afd1f2fa564de35c9778_jpg_640x640.jpg",
+    "date": 1433109600,
     "messages": [
       {
         "sender": "Toshi's Living Room",
@@ -148,6 +151,7 @@
   {
     "sender": "RockLan One Radio",
     "imageURL": "https://s3.sonicbids.com/image/bandopportunity/25824/56f978e4f2fa56793aa75cef_jpg_640x640.jpg",
+    "date": 1433109600,
     "messages": [
       {
         "sender": "RockLan One Radio",
