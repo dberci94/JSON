@@ -1,7 +1,44 @@
 [
   {
     "name": "The 2016 Great Northern Arts Festival",
-    "imageURL": "https://s3.sonicbids.com/image/bandopportunity/25674/56d70f14f2fa560c38f5dc25_jpg_640x640.jpg"
+    "imageURL": "https://s3.sonicbids.com/image/bandopportunity/25674/56d70f14f2fa560c38f5dc25_jpg_640x640.jpg",
+    "postedBy": "Meridian Entertainment Group",
+    "rating": 4,
+    "nuberOfPerformers": 2,
+    "date": "Jul 15, 2016",
+    "venue": {
+      "name": "Silverlake Lounge",
+      "address": {
+        "country": "USA",
+        "state": "California",
+        "town": "Los Angeles",
+        "street": "Sunset Boulevard",
+        "zip": 2906,
+        "number": 76
+      }
+    },
+    "eventType": "Club",
+    "style": [
+      "Pop/Rock",
+      "Electronic"
+    ],
+    "description": {
+      "summary": "Surge Event has slots for Sonicbids bands to play Silverlake Lounge in LA. Selected acts are paid a percentage of ticket sales at the door.",
+      "opportunity": "Silverlake Lounge Los Angeles is a small, indie-rock and sometimes comedy venue located on the world-famous Sunset Boulevard. \n\nSilverlake Lounge Los Angeles boasts a top of the line sound system in an intimate setting which no doubt goes some way to explaining its allure for both audiences and up-and-coming performers. Rufus Wainwright and Silversun Pickups are just two of the now hugely successful acts to have appeared on the Silverlake Lounge schedule in past years.",
+      "band": [
+        "Must be age 21+",
+        "Must be a local LA act"
+      ],
+      "gig": [
+        "Set length 30-35 minutes",
+        "Sound and lights provided",
+        "Backline provided; includes drum kit and bass amp"
+      ],
+      "compensation": [
+        "Selected acts receive 100% of ticket sales ($10) after the first 15 tickets sold",
+        "Band members receive drink tickets"
+      ]
+    }
   },
   {
     "name": "PLAY: @ North Bar in Chicago, IL",
