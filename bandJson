@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Trapped In Static",
+    "imageUrl": "https://s3.sonicbids.com/image/band/154/57b211cfe8db7a1a73c4ac2c_original.jpg",
+    "rating": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "style": "Pop/Rock",
+    "genres": [
+      "Alternativ",
+      "Rock"
+    ],
+    "description": "An alternative rock band from NYC with great energy on stage! TOP artist in May 2013 at ArtistSignal.com, featured in the TV Movie Preying For Mercy (Martha Byrne, Bill Duke). Live performances on cable TV, radio as well as some of NYC's top concert venues. In February 2016, June 2016 headlining sold out shows at The Bitter End followed by The Studio at Webster Hall - July 2016, two times top artist of the week at WorldMusicStage.com.",
+    "id": "58c7117ae5b60b983a929924",
+    "address": {
+      "country": "USA",
+      "state": "New York",
+      "town": "New York City",
+      "street": "New York Street",
+      "zip": 6237,
+      "number": 11
+    }
+  },
+  {
+    "name": "Black Masala",
+    "imageUrl": "https://s3.sonicbids.com/image/band/3086/546e291fef283e04a329ca6f_original.jpg",
+    "rating": [
+      4,
+      5,
+      4,
+      4,
+      5,
+      5,
+      5
+    ],
+    "style": "Pop/Rock",
+    "genres": [
+      "Alternative",
+      "World",
+      "Rock"
+    ],
+    "description": "Black Masala seems to be name rolling off of everyone’s tongue in the last year, and for a good reason: they deliver one of the most explosive performances you will see!",
+    "id": "58c72513e5b60b983a929928",
+    "address": {
+      "country": "USA",
+      "state": "Washington, D.C.",
+      "town": "Washington, D.C.",
+      "street": "Sunset Boulevard",
+      "zip": 2906,
+      "number": 76
+    }
+  },
+  {
+    "name": "Katie Hate",
+    "imageUrl": "https://s3.sonicbids.com/image/band/442798/56453ebcef283e7171a0db22_original.jpg",
+    "rating": [
+      4,
+      5,
+      4,
+      4,
+      5,
+      5,
+      4
+    ],
+    "style": "Pop/Rock",
+    "genres": [
+      "Alternative",
+      "Indie"
+    ],
+    "description": "KatieHate is a three piece Punkternative Band from Pittsburgh who has already completed their first album and is already working on their second album.",
+    "id": "58c725f1e5b60b983a929929",
+    "address": {
+      "country": "USA",
+      "state": "Pennsylvania",
+      "town": "Pittsburgh",
+      "street": "Sunset Boulevard",
+      "zip": 2906,
+      "number": 76
+    }
+  },
+  {
+    "name": "Anna Rose",
+    "imageUrl": "https://s3.sonicbids.com/image/band/130067/562a33dbe8db7a3c709a1ee0_original.jpg",
+    "rating": [
+      4,
+      5,
+      4,
+      4,
+      5,
+      5,
+      4
+    ],
+    "style": "Pop/Rock",
+    "genres": [
+      "Alternative",
+      "Singer/Songwriter"
+    ],
+    "description": "Anna Rose is rock and roll. Raw and unfiltered only begins to describe the petite-blonde’s persona; so don't let her looks fool you. After her sophomore album Behold a Pale Horse, Rose has evolved deeper with her upcoming release, Strays In The Cut.",
+    "id": "58c72713e5b60b983a92992a",
+    "address": {
+      "country": "USA",
+      "state": "New York",
+      "town": "New York City",
+      "street": "Sunset Boulevard",
+      "zip": 2906,
+      "number": 76
+    }
+  }
+]
